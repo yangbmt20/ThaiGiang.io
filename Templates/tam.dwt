@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>index</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+	<link rel="stylesheet" href="../Hexa shop/css/all.min.css">
+	<link rel="stylesheet" href="../Hexa shop/css/bootstrap.css">
+	<link rel="stylesheet" href="../Hexa shop/css/style.css">
+	<link rel="stylesheet" href="../Hexa shop/css/owl.carousel.css">
+	<link rel="stylesheet" href="../Hexa shop/css/owl.theme.default.css">
+	<link rel="icon" href="../Hexa shop/images/favicon.png" type="image/x-icon">
+	<script src="../Hexa shop/js/bootstrap.bundle.min.js"></script>
+
+<body>
+<nav class="navbar navbar-expand-lg bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="../Hexa shop/index.html"><img src="../Hexa shop/images/logo.webp" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="../Hexa shop/index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../Hexa shop/Product-2.html">Xbox controller</a>
+        </li>
+		  <li class="nav-item">
+          <a class="nav-link" href="../Hexa shop/Women.html">PS5/PS4 controller</a>
+        </li>
+		  <li class="nav-item">
+          <a class="nav-link" href="../Hexa shop/kid.html">Nintendo Controllers</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Pages
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">About Us</a></li>
+            <li><a class="dropdown-item" href="#">Products</a></li>
+            <li><a class="dropdown-item" href="#">Single Product</a></li>
+            <li><a class="dropdown-item" href="#">Contact Us</a></li>
+          </ul>
+        </li>
+		  <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Features
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Features Page 1</a></li>
+            <li><a class="dropdown-item" href="#">Features Page 2</a></li>
+            <li><a class="dropdown-item" href="#">Features Page 3</a></li>
+            <li><a class="dropdown-item" href="#">Features Page 4</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../Hexa shop/explore.html">Explore</a>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+	<!-- TemplateBeginEditable name="Edit" -->
+	<main></main>
+	<!-- TemplateEndEditable -->
+<footer class="bg-black text-light">
+	<div class="container">
+			<div class="row pt-4">
+				<div class="col-lg-3">
+					<a href="#"><img src="../Hexa shop/images/white-logo.png" alt=""></a>
+					<p class="pt-3">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</p>
+					<p>hexashop@company.com</p>
+					<p>010-020-0340</p>
+				</div>
+				<div class="col-lg-3">
+					<h4>Shopping &amp; Categories</h4>
+					<ul>
+						<li class="nav-item"><a href="#" class="nav-link">Xbox controller</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">PS5/PS4 controller</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Nintendo Controllers</a></li>
+					</ul>
+				</div>
+				<div class="col-lg-3">
+					<h4>Shopping &amp; Categories</h4>
+					<ul class="navbar-nav">
+						<li class="nav-item"><a href="#" class="nav-link">Xbox controller</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">PS5/PS4 controller</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Nintendo Controllers</a></li>
+					</ul>
+				</div>
+				<div class="col-lg-3">
+					<h4>Shopping &amp; Categories</h4>
+					<ul>
+						<li class="nav-item"><a href="#" class="nav-link">Xbox controller</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">PS5/PS4 controller</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Nintendo Controllers</a></li>
+					</ul>
+				</div>
+			</div>
+			
+		</div>
+		
+	</footer>
+</body>
+	
+	<script src="../Hexa shop/js/jquery-3.6.0.min.js"></script>
+	<script src="../Hexa shop/js/owl.carousel.js"></script>
+	<script src="../Hexa shop/js/Slide-1.js"></script>
+</html>
